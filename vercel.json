@@ -1,7 +1,7 @@
 {
   "redirects": [
     {
-      "source": "/((?!robots\\.txt$|sitemap\\.xml$|favicon\\.ico$|index\\.html$|_vercel/).+)",
+      "source": "/((?!robots\\.txt$|sitemap\\.xml$|favicon\\.ico$|_vercel/).+)",
       "destination": "/",
       "permanent": true
     }
