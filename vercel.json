@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/((?!robots\\.txt$|sitemap\\.xml$|favicon\\.ico$|index\\.html$|_vercel/).+)",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
+}
